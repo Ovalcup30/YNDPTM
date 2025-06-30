@@ -1,0 +1,31 @@
+
+["World settings"]
+	#Do you want the game to crash?
+	"Game crashes" = true
+	#Rebalences the game if you have The Broken Script installed
+	"TBS mode" = false
+	#This is a challenge for the best of the best. Makes changes to all entities to make them 10 times worse. (WARNING: This will turn on or off other configs when turned on even, if it make not look like it)
+	Hardmode = false
+	#Do you want random structures to appear?
+	"Disable random structures" = false
+	#Toggling this will make events happen much faster
+	"Fast events" = false
+	#Do you want the entities to break blocks?
+	Destruction = true
+	#Reduces the chase length from 1 minute to 30 seconds
+	"Reduce chase length" = false
+	#Do you want Nothing_left to talk?
+	"Toggle Nothing_left" = true
+	#Do you want the Void Corruption to spread through out the world?
+	Corruption = true
+
+["Player settings"]
+	#Do you want the game to ban you from your world? (THIS ONLY HAPPENS IF YOUR DOING SOMETHING VERY SECRETIVE)
+	Banning = true
+
+["Entity settings"]
+	#You can put most entities in boats
+	Boating = false
+	#Do you want fire to spawn randomly?
+	"FIRE!" = true
+
