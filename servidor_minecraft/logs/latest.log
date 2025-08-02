@@ -119,3 +119,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [02Aug2025 23:22:35.817] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8703 ms
 [02Aug2025 23:22:35.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.758s)! For help, type "help"
 [02Aug2025 23:22:35.845] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[02Aug2025 23:50:02.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Aug2025 23:50:02.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 111111111set time day<--[HERE]
+[02Aug2025 23:50:11.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[02Aug2025 23:50:11.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: set time set day<--[HERE]
